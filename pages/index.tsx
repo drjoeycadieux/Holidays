@@ -1,6 +1,5 @@
 import type { NextPage } from 'next'
 import Head from 'next/head'
-import Image from 'next/image'
 
 const Home: NextPage = () => {
   return (
@@ -23,6 +22,12 @@ const Home: NextPage = () => {
           the holiday season | Business English
           the period between late December and early January that includes Christmas, Hanukkah, and New Year: Planning for the holiday season begins as early as February.
         </h1>
+      </div>
+
+      <div className="bg-white text-center p-9 font-sans text-5xl font-bold">
+          <h1>
+           Hello! Dev
+          </h1>
       </div>
 
       <div className="p-9 bg-gray-800 text-center flex">
