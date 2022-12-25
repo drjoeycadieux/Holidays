@@ -26,7 +26,6 @@ const Home: NextPage = () => {
       </div>
 
       <div className="p-9 bg-gray-800 text-center flex">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/9uw0wDOagFo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <h1 className="text-white font-sans text-center m-8 text-4xl">
           Merry Christmas 2023 🎄 Best Christmas Songs Of All Time 🎅🏼 Nonstop Christmas Songs Medley 2023 V23
         </h1>
