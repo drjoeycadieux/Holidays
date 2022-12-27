@@ -5,15 +5,15 @@ const Home: NextPage = () => {
   return (
     <div className="">
       <Head>
-        <title>Christmas and holiday season</title>
+        <title>TechTack-Technologies Christmas and holiday season</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className="bg-gray-800 p-9">
-        <h1 className="text-white text-center text-5xl">
+        <h1 className="text-white text-center text-5xl font-bold font-sans">
           Christmas and holiday season
         </h1>
-        <p className="text-white text-center">From Developers</p>
+        <p className="text-white text-center p-5 font-mono">From Developers</p>
       </main>
 
       <div className="bg-blue-800 p-5 text-white text-center">
@@ -24,8 +24,8 @@ const Home: NextPage = () => {
         </h1>
       </div>
 
-      <div className="bg-white text-center p-9 font-sans text-5xl font-bold">
-          <h1>
+      <div className="bg-white p-9">
+          <h1 className="text-black font-bold font-sans text-4xl text-center">
            Hello! Dev
           </h1>
       </div>
